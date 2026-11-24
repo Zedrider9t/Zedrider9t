@@ -1,55 +1,75 @@
 # Mohammed Mohsin
 
-**Founder & CEO, Implement Media Solutions Pvt Ltd**  
-Building practical AI, software, web, mobile, cloud and automation solutions.
+**Founder | AI-Native Product Developer | Full-Stack & Automation**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Mohsin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mohsin-ims/)
-[![Implement Media Solutions](https://img.shields.io/badge/Company-Implement%20Media%20Solutions-111827)](https://implementmediasolutions.com)
-[![ScaleVane](https://img.shields.io/badge/Startup-ScaleVane-6D28D9)](https://www.linkedin.com/company/scalevane/)
+Mumbai, India · Open to international opportunities and relocation with employer-supported work authorization
 
-## About
+[LinkedIn](https://www.linkedin.com/in/mohammed-mohsin-ims/)
 
-I am the Founder & CEO of **Implement Media Solutions Pvt Ltd**, based in Mumbai, India. My work spans technology leadership, product development and digital delivery across:
+## About me
 
-- Artificial intelligence and business automation
-- Custom software and SaaS products
-- Web applications and modern websites
-- Mobile applications
-- Cloud technologies and integrations
-- OTT and streaming platforms
-- Digital marketing and technology-enabled growth
-- UI/UX, branding and multimedia production
+I am the founder of Implement Media Solutions Pvt Ltd. I lead the delivery of commercial websites, mobile applications, backend systems and business automation solutions. My approach combines product thinking, UI/UX design and AI-assisted software engineering.
 
-I focus on building scalable, business-oriented technology that solves real operational and growth problems.
+I use OpenAI Codex, Claude Code, ChatGPT and Gemini to turn requirements into working products. My responsibilities include defining business rules, directing implementation, reviewing changes, coordinating testing and troubleshooting deployments. I am actively strengthening my independent code-review and engineering skills.
 
-## Current Focus
+## Selected public projects
 
-### ScaleVane
-A creator-growth SaaS product focused on helping creators and brands plan, generate and execute structured growth campaigns.
+| Project | Focus |
+| --- | --- |
+| [AI Business Automation Starter](https://github.com/Zedrider9t/ai-business-automation-starter) | TypeScript, lead qualification, structured AI output validation, CRM/webhook integration, n8n and automated testing |
+| [Next.js Enterprise Starter](https://github.com/Zedrider9t/nextjs-enterprise-starter) | Next.js, React, TypeScript, API validation, authorization contracts, rate limiting, Docker and CI |
 
-### Zoro AI System
-An AI assistant system exploring multi-agent workflows, desktop interaction, automation, contextual intelligence and safe execution.
+These repositories are reusable engineering examples. Their READMEs document architecture, setup and validation commands.
 
-### Implement Media Solutions
-Delivering web, mobile, software, AI, automation, cloud, OTT, digital marketing and creative technology solutions for businesses and partners.
+## Commercial project experience
 
-## Technology Areas
+### Apni Savaari — Ride-booking platform
+[Website](https://apnisavaari.co.in)
 
-`AI & Automation` · `SaaS` · `Next.js` · `TypeScript` · `React` · `Flutter` · `Python` · `Node.js` · `Supabase` · `PostgreSQL` · `Cloud` · `REST APIs` · `GitHub Actions`
+Led AI-assisted development of customer and driver apps, web booking, administration, backend APIs, geospatial functionality and payment workflows. The stack includes Next.js, Node.js, Fastify, PostgreSQL/PostGIS, Redis and Firebase. The website and backend have been deployed; commercial rollout is in progress.
 
-## Open Source
+### Apex News India — Digital publishing
+[Website](https://apexnewsindia.com)
 
-I am building a stronger public open-source portfolio around AI, business automation, web engineering, mobile applications and developer tooling.
+Worked on bilingual English and Roman Hindi news experiences, WordPress API integration, mobile apps and automated publishing. Production troubleshooting involved SSH, application logs, stale-lock handling and external AI provider failures.
 
-Public projects and reusable starter kits will be added here progressively.
+### T7 News — News website and applications
 
-## Connect
+Led website and application development work, including custom WordPress themes, plugins and advertising features such as scheduling, rotation, responsive placements and click tracking.
 
-- **Website:** https://implementmediasolutions.com
-- **LinkedIn:** https://www.linkedin.com/in/mohammed-mohsin-ims/
-- **Implement Media Solutions:** https://www.linkedin.com/company/implement-media-solutions/
-- **ScaleVane:** https://www.linkedin.com/company/scalevane/
+### Apex Prime TV — OTT and streaming
 
----
+Worked on mobile application development, streaming integrations and app distribution workflows.
 
-> Building technology with a focus on practical impact, scalability and long-term business value.
+Commercial source code is not required to be public to demonstrate product delivery. I keep client-owned or sensitive materials protected and use public examples to illustrate engineering approaches.
+
+## How I work with AI
+
+1. Define the problem, constraints and acceptance criteria.
+2. Give coding agents relevant repository context and bounded tasks.
+3. Review proposed changes and validate affected behavior.
+4. Use tests, logs and deployment checks to investigate failures.
+5. Protect production state and retain rollback options.
+
+## Technologies
+
+**Development:** Next.js, React, TypeScript, JavaScript, Node.js, Fastify, Flutter, React Native, WordPress
+
+**Data and infrastructure:** PostgreSQL, PostGIS, Redis, Firebase, Google Cloud, Linux, Docker, GitHub Actions, REST APIs
+
+**AI-assisted development:** Codex, Claude Code, ChatGPT, Gemini
+
+**Creative and product skills:** UI/UX, branding, digital marketing, motion graphics, product ownership and client communication
+
+## Currently learning
+
+- Independent code review and automated testing
+- Backend architecture and database reliability
+- Secure AI integrations and agent workflows
+- Production observability and deployment practices
+
+## Opportunities
+
+Interested in AI-native product development, AI automation, applied AI, rapid prototyping and full-stack roles where practical product-building and continuous learning are valued.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/mohammed-mohsin-ims/)
